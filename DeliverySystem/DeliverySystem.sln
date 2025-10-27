@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliverySystem", "DeliverySystem\DeliverySystem.csproj", "{E5985DAD-81C4-4F00-B75C-A268E84A1E10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliverySystem.Tests", "DeliverySystem.Tests\DeliverySystem.Tests.csproj", "{CBAFDE0C-68D9-434B-A736-A8E1B8F79E3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5985DAD-81C4-4F00-B75C-A268E84A1E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5985DAD-81C4-4F00-B75C-A268E84A1E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5985DAD-81C4-4F00-B75C-A268E84A1E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5985DAD-81C4-4F00-B75C-A268E84A1E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBAFDE0C-68D9-434B-A736-A8E1B8F79E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAFDE0C-68D9-434B-A736-A8E1B8F79E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAFDE0C-68D9-434B-A736-A8E1B8F79E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAFDE0C-68D9-434B-A736-A8E1B8F79E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
