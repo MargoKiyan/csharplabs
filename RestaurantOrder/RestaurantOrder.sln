@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantOrderSystem", "RestaurantOrderSystem\RestaurantOrderSystem.csproj", "{B64374D4-588E-4113-8135-2A52EE11F257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B64374D4-588E-4113-8135-2A52EE11F257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64374D4-588E-4113-8135-2A52EE11F257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64374D4-588E-4113-8135-2A52EE11F257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64374D4-588E-4113-8135-2A52EE11F257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
